@@ -1,0 +1,23 @@
+{
+    "header": {
+      "h1": {
+        "marginRight": "20px",
+        "fontSize": "25px",
+        "display": "inline"
+      },
+      "body": {
+        "paddingTop": 0,
+        "paddingBottom": 0
+      },
+      "h2": {
+        "display": "inline",
+        "color": "#555"
+      }
+    },
+    "infoBody": {
+      "backgroundColor": "#fff",
+      "padding": "15px 20px",
+      "lineHeight": "2",
+      "overflowX": "scroll"
+    }
+  }
